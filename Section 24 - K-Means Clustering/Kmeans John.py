@@ -34,4 +34,3 @@ plt.title('the elbow method')
 plt.xlabel('number of clusters')
 plt.ylabel('WCSS')
 plt.show()
-
